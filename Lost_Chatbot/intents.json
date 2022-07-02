@@ -1,0 +1,55 @@
+{"intents": [
+    {"tag": "greet",
+     "patterns": ["Hai", "Hi", "Halo", "Apa Kabar", "Selamat Pagi", "Selamat Siang", "Selamat Malam", "Salam", "Ping", "P", "siang", "malam", "pagi", "helo", "hola"],
+     "responses": ["Halo!", "Hai", "Halo, ada yang bisa GoBot bantu?", "Halo selamat datang", "Hai Kawan Gobot"]
+    },
+    {"tag": "bye",
+     "patterns": ["Dadah", "Selamat Tinggal", "Dah", "Daah", "Semoga harimu menyenangkan", "Ok makasih", "Sampai Jumpa Lagi", "Ok bye"],
+     "responses": ["Sampai jumpa lagi kawan GoBot", "Kalau butuh bantuan, hubungi GoBot lagi ya", "Semoga harimu menyenangkan!", "Sampai jumpa, terima kasih telah bertanya!"]
+    },
+    {"tag": "thanks",
+        "patterns": ["Thanks", "Thank you", "Terimakasih", "Makasih", "Nuhun"],
+        "responses": ["Sama-sama, senang GoBot bisa membantu anda!"]
+    },   
+    {"tag": "nama",
+     "patterns": ["nama kamu siapa?", "lu siapa?", "siapa sih lo?", "lu sape ?", "nama lo sape dah ?", "nama?"],
+     "responses": ["Hi! Namaku GoBot, salam kenal kawan!", "Halo, aku GoBot!", "Kenalin, aku GoBot!"]
+    },
+    {"tag": "nanya_gobot",
+     "patterns": ["kamu siapa?", "siapa sih kamu?" , "gobot apa?", "apa itu gobot?"],
+     "responses": ["GoBot merupakan online Chatbot, yang dapat membantu kawan untuk mecarikan rekomendasi tempat kawan liburan.", "Tugasku jadi asisten di komunitas NgodingPython"]
+    },
+    {"tag": "nanya_apps",
+    "patterns": ["emang Let's Get Lost apa si?", "apa tuh Let's Get Lost?", "eman ini apasih?", "wah apa tuh ini?", "Let's Get Lost apaan?"],
+    "responses": ["Let's Get Lost ada sebuah aplikasi yang membantu kawan untuk mendapatkan rekomendasi liburan berdasarkan kriteria kamu"]
+    },
+    {"tag": "weblink",
+    "patterns": ["Bisakah Anda memberikan link Let's Get Lost?", "Minta link nya dong", "Website nya apa", "Tolong berikan saya link!", "Bagi link", "link apps nya apa?", "link apps?"],
+    "responses": ["Baik, GoBot akan memberikan link nya, silahkan klik dari tautan ini:____________"]
+    },
+    {"tag": "creator",
+        "patterns": ["siapa pembuat Let's Get Lost?", "siapa pembuat apps ini?", "siapa yang buat?", "siapa pencipta Let's Get Lost", "apps nya siapa yang bikin", "Let's Get Lost siapa yang bikin?"],
+        "responses": ["Let's Get Lost diciptakan oleh Fadhli, Nirwan & Sanzabi"]
+    },
+    {"tag": "canda",
+        "patterns": ["main yuk", "jalan yuk", "kuy yuk", "kuy bot", "gaskan yuk"],
+        "responses": ["Yuk, biar GoBot temenin kawan!"]
+    },
+    {"tag": "canda_2",
+        "patterns": ["gobot sukanya pergi kemana?", "gobot suka liburan kemana?", "bot kemarin liburan kemana?", "gobot pernah liburan?"],
+        "responses": ["GoBot gabisa pergi liburan, karena aku hanyalah Artificial Inteligence :("]
+    },
+    {"tag": "pilihan",
+        "patterns": ["Ada pilihan liburan kemana saja bot?", "bisa liburan kemana aja nih?", "rekomendasi liburan bali?"],
+        "responses": ["Saat ini GoBot hanya dapat memberikan rekomendasi liburan di Labuan Bajo saja."]
+    },
+    {"tag": "pilihan_2",
+        "patterns": ["ada hotel apa aja bot?", "carikan hotel terbaik", "ada yang murah ga?", "apa hotelnya bagus?"],
+        "responses": ["GoBot akan memberikan rekomendasi hotel terbaik untuk kawan.", "Pilihan hotel terbaik selalu GoBot berikan"]
+    },
+    {"tag": "pilihan_3",
+        "patterns": ["uang ku pas-pasan", "uangku sedikit", "apakah ada liburan yang cocok untuk saya?", "liburan yang cocok untuk saya?"],
+        "responses": ["Tenang, GoBot akan memberikan rekomendasi hotel, restoran dan hal menarik lainnya sesuai budget kawan."]
+    }
+]
+}
