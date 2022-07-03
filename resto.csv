@@ -1,3 +1,46 @@
+<<<<<<< HEAD
+hotel_name,rating,total_review,rate_price,hotel_star,service
+Le Pirate Restaurant & Deck - Labuan Bajo,4.1,-409,$$,Salad,Dine-in
+La Cucina,4.3,-949,$$,Italian,Dine-in
+Atlantis On The Rock,4.5,-223,$$$,Restaurant,Dine-in
+MadeInItaly Ristorante Italiano,4.3,-688,$$$,Italian,Dine-in
+Hong Signature Restaurant,4.2,-45,$$,Restaurant,Dine-in
+Molas Cafe,4.5,-310,$$,Restaurant,Dine-in
+Artomoro Restaurant and Grill,4.2,-667,$$,Seafood,Dine-in
+Green Cherry,4.4,-902,$$,Restaurant,Dine-in
+Warung Mama,3.9,-115,$,Restaurant,Dine-in
+Burger Time,4.4,-213,$$,Hamburger,Dine-in
+Baccalai,4.6,-149,$$,Restaurant,Dine-in
+RINCA Restaurant,4.3,-36,$$$,Restaurant,Dine-in
+Blue Corner,4.3,-188,$,Restaurant,Dine-in
+BAJO SUNSET HOTEL & FLORES FOOD RESTAURANT,3.9,-66,$$,Restaurant,Dine-in
+Rafael's Kitchen,3.8,-54,$,Chinese,Dine-in
+Happy Banana Komodo,4.4,-795,$$,Japanese,Dine-in
+Budi Luhur Restaurant,4.1,-204,$,Restaurant,Dine-in
+Restaurant @ Angel Island Resort Komodo,4.8,-14,$$,Restaurant,Dine-in
+Mari Makan Resto Bajo,4.5,-168,$,Seafood,Dine-in
+Ikan Goreng Cianjur,3.9,-329,$,Sundanese restaurant,Dine-in
+The Bay Restaurant,,,$$,Restaurant,Dine-in
+Rumah Makan Kellan Eat First,4.4,-646,$$,Chinese,Dine-in
+Say Se'i Restaurant,4.3,-166,$$$,Restaurant,Dine-in
+Kisik Grill,4.6,-11,$$$,Seafood,Dine-in
+MAFIA Restaurant Labuan Bajo,2.5,-2,$,Restaurant,Dine-in
+Restaurant,,,$$,Restaurant,Dine-in
+Dragon Resto,4.3,-129,$$,Chinese,Dine-in
+Pesona Bali,4.1,-217,$$,Seafood,Dine-in
+Taman Laut Handayani Seafood Restaurant Labuan Bajo,4.5,-684,$$,Seafood,Dine-in
+Bajo Bakery,4.3,-187,$$,Restaurant,Dine-in
+HONZEN Komodo,3.7,-21,$$$,Japanese,Dine-in
+Sesto Senso Restaurant And Lounge,4.8,-56,$$$,Restaurant,Dine-in
+Restaurant,4.7,-3,$$,Fish and Chips,Takeaway
+Rumah Makan TOP,4.1,-54,$,Restaurant,Dine-in
+Restu Bundo,4.5,-2,$,Padang restaurant,Dine-in
+Pondok Flores,4,-92,$$,Restaurant,Dine-in
+Café Melinjo - French Flavor,4.7,-156,$$,Bakery,Dine-in
+Surya Agung Restaurant,2.6,-5,$,Indonesian,Dine-in
+Warung Bugisan,4.4,-39,$,Restaurant,Dine-in
+"Scooperific ""La Creperie""",4.1,-169,$$,Ice Cream,Dine-in
+=======
 restaurant_name,rating,total_review,rate_price,restaurant_type,service
 Le Pirate Restaurant & Deck - Labuan Bajo,4.1,409,$$,Vegetarian Food,Dine-in
 La Cucina,4.3,949,$$,Italian Food,Dine-in
@@ -37,3 +80,4 @@ Cafe Melinjo - French Flavor,4.7,156,$$,Bakery,Dine-in
 Surya Agung Restaurant,2.6,5,$,Indonesian Food,Dine-in
 Warung Bugisan,4.4,39,$,Restaurant,Dine-in
 "Scooperific ""La Creperie""",4.1,169,$$,Ice Cream,Dine-in
+>>>>>>> d752ba447424886b865a1bdb8f2d69573815114a
