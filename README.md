@@ -3,7 +3,7 @@
 
 ## Description about the projects!🖥️ 
 
-<img src=(./img/Travelry.png) align="center">
+![alt text](./img/Travelry.png)
 
 **Travelry (Online Travel Agency)**
 
