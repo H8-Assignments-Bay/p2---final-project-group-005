@@ -1,9 +1,9 @@
-# Hi there, Selamat Datang di Final Project kami 👋
-**============= Group 5 - Batch 11 - Hacktiv8 =============**
+# Hi there, Selamat Datang di ours Final Project 👋
+**Group 5 - Batch 11 - Hacktiv8**
 
 ## Description about the projects!🖥️ 
 
-[![website](./img/Travelry.png)
+[![website](./img/instagram-light.svg)]
 
 **Travelry (Online Travel Agency)**
 
