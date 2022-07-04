@@ -9,16 +9,16 @@ import numpy as np
 import pandas as pd
 import tensorflow as tf
 from sklearn.preprocessing import LabelEncoder
-
+from keras.models import load_model
 
 app = Flask(__name__)
 
 # Load json file
-data_file = open('intents.json').read()
+data_file = open('Lost_Chatbot/intents.json').read()
 intents_json = json.loads(data_file)
 
 # Load TF model
-model = tf.keras.models.load_model('model.h5')
+model = load_model('Lost_Chatbot/model.h5')
 
 # Load Label Encoder
 with open('encoder.pkl', 'rb') as f:
