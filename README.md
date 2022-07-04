@@ -1,5 +1,6 @@
-# Hi there, Selamat Datang di ours Final Project 👋
-**Group 5 - Batch 11 - Hacktiv8**
+# Hi there, Welcome to ours Final Projects👋
+
+<h2 align="center">Hacktiv8 - Group 5 - Batch 11</h2>
 
 ## Description about the projects!🖥️ 
 
