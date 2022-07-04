@@ -1,83 +1,38 @@
-<<<<<<< HEAD
-hotel_name,rating,total_review,rate_price,hotel_star,service
-Le Pirate Restaurant & Deck - Labuan Bajo,4.1,-409,$$,Salad,Dine-in
-La Cucina,4.3,-949,$$,Italian,Dine-in
-Atlantis On The Rock,4.5,-223,$$$,Restaurant,Dine-in
-MadeInItaly Ristorante Italiano,4.3,-688,$$$,Italian,Dine-in
-Hong Signature Restaurant,4.2,-45,$$,Restaurant,Dine-in
-Molas Cafe,4.5,-310,$$,Restaurant,Dine-in
-Artomoro Restaurant and Grill,4.2,-667,$$,Seafood,Dine-in
-Green Cherry,4.4,-902,$$,Restaurant,Dine-in
-Warung Mama,3.9,-115,$,Restaurant,Dine-in
-Burger Time,4.4,-213,$$,Hamburger,Dine-in
-Baccalai,4.6,-149,$$,Restaurant,Dine-in
-RINCA Restaurant,4.3,-36,$$$,Restaurant,Dine-in
-Blue Corner,4.3,-188,$,Restaurant,Dine-in
-BAJO SUNSET HOTEL & FLORES FOOD RESTAURANT,3.9,-66,$$,Restaurant,Dine-in
-Rafael's Kitchen,3.8,-54,$,Chinese,Dine-in
-Happy Banana Komodo,4.4,-795,$$,Japanese,Dine-in
-Budi Luhur Restaurant,4.1,-204,$,Restaurant,Dine-in
-Restaurant @ Angel Island Resort Komodo,4.8,-14,$$,Restaurant,Dine-in
-Mari Makan Resto Bajo,4.5,-168,$,Seafood,Dine-in
-Ikan Goreng Cianjur,3.9,-329,$,Sundanese restaurant,Dine-in
-The Bay Restaurant,,,$$,Restaurant,Dine-in
-Rumah Makan Kellan Eat First,4.4,-646,$$,Chinese,Dine-in
-Say Se'i Restaurant,4.3,-166,$$$,Restaurant,Dine-in
-Kisik Grill,4.6,-11,$$$,Seafood,Dine-in
-MAFIA Restaurant Labuan Bajo,2.5,-2,$,Restaurant,Dine-in
-Restaurant,,,$$,Restaurant,Dine-in
-Dragon Resto,4.3,-129,$$,Chinese,Dine-in
-Pesona Bali,4.1,-217,$$,Seafood,Dine-in
-Taman Laut Handayani Seafood Restaurant Labuan Bajo,4.5,-684,$$,Seafood,Dine-in
-Bajo Bakery,4.3,-187,$$,Restaurant,Dine-in
-HONZEN Komodo,3.7,-21,$$$,Japanese,Dine-in
-Sesto Senso Restaurant And Lounge,4.8,-56,$$$,Restaurant,Dine-in
-Restaurant,4.7,-3,$$,Fish and Chips,Takeaway
-Rumah Makan TOP,4.1,-54,$,Restaurant,Dine-in
-Restu Bundo,4.5,-2,$,Padang restaurant,Dine-in
-Pondok Flores,4,-92,$$,Restaurant,Dine-in
-CafÃ© Melinjo - French Flavor,4.7,-156,$$,Bakery,Dine-in
-Surya Agung Restaurant,2.6,-5,$,Indonesian,Dine-in
-Warung Bugisan,4.4,-39,$,Restaurant,Dine-in
-"Scooperific ""La Creperie""",4.1,-169,$$,Ice Cream,Dine-in
-=======
-restaurant_name,rating,total_review,rate_price,restaurant_type,service
-Le Pirate Restaurant & Deck - Labuan Bajo,4.1,409,$$,Vegetarian Food,Dine-in
-La Cucina,4.3,949,$$,Italian Food,Dine-in
-Atlantis On The Rock,4.5,223,$$$,Restaurant,Dine-in
-MadeInItaly Ristorante Italiano,4.3,688,$$$,Italian Food,Dine-in
-Hong Signature Restaurant,4.2,45,$$,Restaurant,Dine-in
-Molas Cafe,4.5,310,$$,Restaurant,Dine-in
-Artomoro Restaurant and Grill,4.2,667,$$,Seafood,Dine-in
-Green Cherry,4.4,902,$$,Restaurant,Dine-in
-Warung Mama,3.9,115,$,Restaurant,Dine-in
-Burger Time,4.4,213,$$,Hamburger,Dine-in
-Baccalai,4.6,149,$$,Restaurant,Dine-in
-RINCA Restaurant,4.3,36,$$$,Restaurant,Dine-in
-Blue Corner,4.3,188,$,Restaurant,Dine-in
-BAJO SUNSET HOTEL & FLORES FOOD RESTAURANT,3.9,66,$$,Restaurant,Dine-in
-Rafael's Kitchen,3.8,54,$,Chinese Food,Dine-in
-Happy Banana Komodo,4.4,795,$$,Japanese Food,Dine-in
-Budi Luhur Restaurant,4.1,204,$,Restaurant,Dine-in
-Restaurant @ Angel Island Resort Komodo,4.8,14,$$,Restaurant,Dine-in
-Mari Makan Resto Bajo,4.5,168,$,Seafood,Dine-in
-Ikan Goreng Cianjur,3.9,329,$,Sundanese restaurant,Dine-in
-The Bay Restaurant,4.3,323,$$,Restaurant,Dine-in
-Rumah Makan Kellan Eat First,4.4,646,$$,Chinese Food,Dine-in
-Say Se'i Restaurant,4.3,166,$$$,Restaurant,Dine-in
-Kisik Grill,4.6,11,$$$,Seafood,Dine-in
-MAFIA Restaurant Labuan Bajo,2.5,2,$,Restaurant,Dine-in
-Dragon Resto,4.3,129,$$,Chinese Food,Dine-in
-Pesona Bali,4.1,217,$$,Seafood,Dine-in
-Taman Laut Handayani Seafood Restaurant Labuan Bajo,4.5,684,$$,Seafood,Dine-in
-Bajo Bakery,4.3,187,$$,Restaurant,Dine-in
-HONZEN Komodo,3.7,21,$$$,Japanese Food,Dine-in
-Sesto Senso Restaurant And Lounge,4.8,56,$$$,Restaurant,Dine-in
-Rumah Makan TOP,4.1,54,$,Restaurant,Dine-in
-Restu Bundo,4.5,2,$,Padang restaurant,Dine-in
-Pondok Flores,4,92,$$,Restaurant,Dine-in
-Cafe Melinjo - French Flavor,4.7,156,$$,Bakery,Dine-in
-Surya Agung Restaurant,2.6,5,$,Indonesian Food,Dine-in
-Warung Bugisan,4.4,39,$,Restaurant,Dine-in
-"Scooperific ""La Creperie""",4.1,169,$$,Ice Cream,Dine-in
->>>>>>> d752ba447424886b865a1bdb8f2d69573815114a
+restaurant_name,rating,total_review,rate_price,restaurant_type,coordinate,image
+Le Pirate Restaurant & Deck - Labuan Bajo,4.1,409,$$,Vegetarian Food,"-8.492852260326872, 119.87774201182877",https://lh5.googleusercontent.com/p/AF1QipNBo1X5KSRBA_RcAkyzuJZt-Um77FIo3WCV-QXe=w408-h302-k-no
+La Cucina,4.3,949,$$,Italian Food,"-8.496184927167649, 119.87879999648594",https://lh5.googleusercontent.com/p/AF1QipPmZrK1w2LX3GtaJfjR7FIvlSA-ckdK77uG0IY7=w426-h240-k-no
+Atlantis On The Rock,4.5,223,$$$,Western Food,"-8.456781069547054, 119.87035200997813",https://lh5.googleusercontent.com/p/AF1QipPJWtF3Tw4NKchrXMORVnlLZ6z8KwYCAYNFAyn0=w408-h272-k-no
+MadeInItaly Ristorante Italiano,4.3,688,$$$,Italian Food,"-8.50276092661708, 119.88109355415743",https://lh5.googleusercontent.com/p/AF1QipPWWYQoNrJnaDLaWnr-MAXrt4emlEuCz1TasMf_=w408-h306-k-no
+Hong Signature Restaurant,4.2,45,$$,Seafood,"-8.495971482783027, 119.87899569648584",https://lh5.googleusercontent.com/p/AF1QipPAasdzH4NuaBLg-BlRpHv0fk1dG7pCX1U4c3yI=w408-h306-k-no
+Molas Cafe,4.5,310,$$,Western Food,"-8.499443015889941, 119.88214872532174",https://lh5.googleusercontent.com/p/AF1QipP-x4Kp-QasyNKseQaelbDGwpKjmIbs9Hdbd1Hf=w408-h544-k-no
+Artomoro Restaurant and Grill,4.2,667,$$,Seafood,"-8.493039482703942, 119.8778024964858",https://lh5.googleusercontent.com/p/AF1QipM_EuXjxTBZ41vzUQc7iREATcAtUnmF_vLFklIR=w408-h271-k-no
+Green Cherry,4.4,902,$$,Western Food,"-8.495358950030662, 119.8786972287692",https://lh5.googleusercontent.com/p/AF1QipODFb-ucp7JN4b4iX22UNyrhwdJNjZAUZaDU1aa=w408-h306-k-no
+Warung Mama,3.9,115,$,Indonesian Food,"-8.493753871561978, 119.87846492532158",https://lh5.googleusercontent.com/p/AF1QipPyEhBzVS7nj2CGCjhWvYcrjWn_FWBTEfSnIHNx=w426-h240-k-no
+Burger Time,4.4,213,$$,Western Food,"-8.497180904949381, 119.87965353881441",https://lh5.googleusercontent.com/p/AF1QipPg-gwwzX11lpcLRDaTLzQGQ744IaQ03-w8F-uW=w408-h306-k-no
+Baccalá,4.6,149,$$,Western Food,"-8.491754283226278, 119.8778149970323",https://lh5.googleusercontent.com/p/AF1QipOqnWUwxtTOVSNELBRFnhXs9D4Tp-XCN0JjOewL=w408-h272-k-no
+RINCA Restaurant,4.3,36,$$$,Indonesian Food,"-8.468150489124445, 119.87401067487203",https://lh5.googleusercontent.com/p/AF1QipNYVbSF9WrAJL0p8ziMXg5NZX4Vc0VUuJnGHYFI=w408-h271-k-no
+Blue Corner,4.3,188,$,Indonesian Food,"-8.501094104838366, 119.88217662532179",https://lh5.googleusercontent.com/p/AF1QipO7q5qSlQkVyzzVYLaR6icUozGHMVrV0EKPJr8X=w426-h240-k-no
+BAJO SUNSET HOTEL & FLORES FOOD RESTAURANT,3.9,66,$$,Western Food,"-8.485863682510606, 119.87817983881429",https://lh5.googleusercontent.com/p/AF1QipMN0mC5QalicnbJgIFmFQbGYel1SVTNje1cR5Eb=w408-h306-k-no
+Rafael's Kitchen,3.8,54,$,Chinese Food,"-8.494133382733448, 119.87852099648586",https://lh5.googleusercontent.com/p/AF1QipNnLPRO2v3G3uWD_1XHgdn0U_XZtgfappv37ehy=w408-h306-k-no
+Happy Banana Komodo,4.4,795,$$,Japanese Food,"-8.497811282832632, 119.88049313881439",https://lh5.googleusercontent.com/p/AF1QipOkp3NLYpco86Q8jkP8p5oY0VKMXBhKV95g63Dv=w408-h530-k-no
+Budi Luhur Restaurant,4.1,204,$,Indonesian Food,"-8.507393283091226, 119.88614749648606",https://lh5.googleusercontent.com/p/AF1QipO4b66D8p7LlgbtkC2m6Y_ORYSv1DB0T6ZlzQM0=w408-h306-k-no
+Restaurant @ Angel Island Resort Komodo,4.8,14,$$,Western Food,"-8.483272679163987, 119.83890982457683",https://lh5.googleusercontent.com/p/AF1QipOE5sZmULoIJtaXi3UxPecyImfbXN5lc9YEk-tv=w408-h306-k-no
+Mari Makan Resto Bajo,4.5,168,$,Seafood,"-8.494224587079763, 119.88636996910641",https://lh5.googleusercontent.com/p/AF1QipNT4AQfNSs4pr-Mw-OjDHJn3BtdlKlc4i2rchhm=w408-h538-k-no
+Ikan Goreng Cianjur,3.9,329,$,Indonesian Food,"-8.50100311580247, 119.8817845523072",https://lh5.googleusercontent.com/p/AF1QipO67ce0ckKc9apbuUV8dgFF9ZbYctjR94WORSmi=w426-h240-k-no
+The Bay Restaurant,4.3,323,$$,Indonesian Food,"-8.490489347771447, 119.87542848592169",https://lh5.googleusercontent.com/p/AF1QipNDP-cRUxvL2MPQFb_nZwfU9UxKhU-SPrHX49QU=w408-h272-k-no
+Rumah Makan Kellan Eat First,4.4,646,$$,Chinese Food,"-8.49724435697341, 119.89195708601925",https://lh5.googleusercontent.com/p/AF1QipPQAeySHpQMeayArds-50CxxX-OxL8S1Lwabb2M=w408-h306-k-no
+Say Se'i Restaurant,4.3,166,$$$,Indonesian Food,"-8.487476382554066, 119.8954531676501",https://lh5.googleusercontent.com/p/AF1QipOdylvcNbE7ojpibXyacCDJoUR5_hrxWkD--RHR=w408-h544-k-no
+Kisik Grill,4.6,11,$$$,Seafood,"-8.468350117629567, 119.87394876764986",https://lh5.googleusercontent.com/p/AF1QipN1FJsjegHuWk9rn0nU0PRKAzutEj09RNAcYjSw=w408-h612-k-no
+MAFIA Restaurant Labuan Bajo,2.5,2,$,Indonesian Food,"-8.496616771718385, 119.87946466765023",https://lh5.googleusercontent.com/p/AF1QipNNCBtOJUf4AvFdgAGluvyoDtNxp6fgYNQRCosX=w427-h240-k-no
+Dragon Resto,4.3,129,$$,Chinese Food,"-8.484948305296118, 119.89458538299286",https://lh5.googleusercontent.com/p/AF1QipPoRE7NM69Wn2WIhgDtXl_yegybZyuq4bzfE3fe=w426-h240-k-no
+Pesona Bali,4.1,217,$$,Seafood,"-8.490496260133085, 119.87925550997869",https://lh5.googleusercontent.com/p/AF1QipM7Cqo0QNjpB-RIHUSELOjP-rwedPYHGsZe36kf=w408-h306-k-no
+Taman Laut Handayani Seafood Restaurant Labuan Bajo,4.5,684,$$,Seafood,"-8.491995971465995, 119.8786743964858",https://lh5.googleusercontent.com/p/AF1QipM_yr3d-0aP65tfto5Tpf-PMiFZ5beZHp1K75r1=w426-h240-k-no
+Bajo Bakery,4.3,187,$$,Café,"-8.497082193882385, 119.87960036765013",https://lh5.googleusercontent.com/p/AF1QipO-Q_nodRS7eUwz1Ltpo_TFm7PDATHO0kRE3nWq=w426-h240-k-no
+HONZEN Komodo,3.7,21,$$$,Japanese Food,"-8.467892305778825, 119.87403342532129",https://lh5.googleusercontent.com/p/AF1QipOjhrtTvNNM2ttYuH4iyf6IAO2cnF-TJHO59wtL=w408-h272-k-no
+Sesto Senso Restaurant And Lounge,4.8,56,$$$,Western Food,"-8.482635982423705, 119.88359179648572",https://lh5.googleusercontent.com/p/AF1QipMRFaWZj-ipxz5vr5MLC1quqYVntchDGaBxAXDC=w408-h306-k-no
+Rumah Makan TOP,4.1,54,$,Fast Food,"-8.50167306566052, 119.88165579949882",https://lh5.googleusercontent.com/p/AF1QipPw3qTh2vwlZgiReZL0uJpT61llGS3oPujI-KMO=w426-h240-k-no
+Pondok Flores,4,92,$$,Indonesian Food,"-8.49194687146331, 119.89457189648591",https://lh5.googleusercontent.com/p/AF1QipNhaqRNXuFpwnUNxl3hcUexOft9Nfyg9YTjMfo_=w533-h240-k-no
+Cafe Melinjo - French Flavor,4.7,156,$$,Café,"-8.490834582644537, 119.87609689648579",https://lh5.googleusercontent.com/p/AF1QipNMUOCvOVtFJuTTALFIzBVYRzF1bc1-ZC-tN0e2=w408-h544-k-no
+Surya Agung Restaurant,2.6,5,$,Indonesian Food,"-8.493721382722327, 119.87833359648587",https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EuJGciMSUOt2EzdB1SAsgQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=83.16542&pitch=0&thumbfov=100
+Warung Bugisan,4.4,39,$,Indonesian Food,"-8.493972163002853, 119.87849288982744",https://lh5.googleusercontent.com/p/AF1QipNbkl5EmWVc5Cvdk9GDuL4dBUFqo8-YDVh8e2Ec=w408-h271-k-no
+"Scooperific ""La Creperie""",4.1,169,$$,Café,"-8.492537227443577, 119.87723655127324",https://lh5.googleusercontent.com/p/AF1QipOouCnX6_0Po9oUhxB3vsaugbnKiWoigLH7Y7Sk=w428-h240-k-no
