@@ -1,16 +1,16 @@
 # Hi there, Welcome to ours Final Projects👋
 
-<h2 align="center">Hacktiv8 - Group 5 - Batch 11</h2>
-
 ## Description about the projects!🖥️ 
 
 ![alt text](./img/Travelry.png)
 
 **Travelry (Online Travel Agency)**
 
-Travelry merupakan sebuah aplikasi yang dapat memberikan sebuah rekomendasi Itinerary liburan yang menarik. Dimulai dari Hotel, Kuliner, dan tempat Wisata terbaik berdasarkan kategori dari para pengguna aplikasi ini.
+Travelry merupakan sebuah aplikasi yang dapat memberikan sebuah rekomendasi Itinerary liburan yang menarik. Dimulai dari rekomendasi Hotel, Kuliner, dan tempat Wisata terbaik berdasarkan kategori dari para pengguna aplikasi ini.
 
 ## Meet the team! 🔥
+
+**Hacktiv8 - Group 5 - Batch 11**
 
 - Nirwan Arrachman
 
