@@ -3,7 +3,7 @@
 
 ## Description about the projects!🖥️ 
 
-[![website](./img/instagram-light.svg)]
+![website](./img/instagram-light.svg)
 
 **Travelry (Online Travel Agency)**
 
