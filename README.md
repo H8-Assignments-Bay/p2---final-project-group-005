@@ -35,11 +35,11 @@ Some screenshot of Travelry Application:
 
 **Bot Conversation Examples**
 
-[![image](./img/bot_1.png.png)]
-&nbsp;&nbsp;
-[![image](./img/bot_2.png.png)]
-&nbsp;&nbsp;
-[![image](./img/bot_3.png.png)]
+<p float="left">
+  <img src="./img/bot_1.png.png" width="100" />
+  <img src="./img/bot_2.png.png" width="100" /> 
+  <img src="./img/bot_3.png.png" width="100" />
+</p>
 
 ## Meet the team! 🔥
 
