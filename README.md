@@ -18,15 +18,19 @@ We deploy the application through Heroku, don't hesitate to try it and please gi
 Some screenshot of Travelry Application:
 
 **Full page of the apps:**
+
 ![image](./img/Travelry-deploy.png)
 
 **Interactive Map**
+
 ![image](./img/Travelry-map.png)
 
 **Comments Sections**
+
 ![image](./img/Travelry-attractions.png)
 
 **Bot Helper on Telegram**
+
 ![image](./img/Travelry-bot.png)
 
 ## Meet the team! 🔥
