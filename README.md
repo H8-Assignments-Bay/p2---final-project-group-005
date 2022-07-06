@@ -1,12 +1,26 @@
 # Hi there, Welcome to ours Final Projects👋
 
-## Description about the projects!🖥️ 
+## About the projects!🖥️ 
 
 ![alt text](./img/Travelry.png)
 
 **Travelry (Online Travel Agency)**
 
 Travelry merupakan sebuah aplikasi yang dapat memberikan sebuah rekomendasi Itinerary liburan yang menarik. Dimulai dari rekomendasi Hotel, Kuliner, dan tempat Wisata terbaik berdasarkan kategori dari para pengguna aplikasi ini.
+
+# Deployment : 
+
+We deploy the application through Heroku, don't hesitate to try it and please give us your feedback!
+
+- [Heroku](https://travelry-apps.herokuapp.com/)
+- [Feedback](https://forms.gle/Y6JJT9pJJeSPNPu99)
+
+some screenshot of Travelry Application:
+
+![image](./img/Travelry-deploy.png)
+![image](./img/Travelry-map.png)
+![image](./img/Travelry-attractions.png)
+![image](./img/Travelry-bot.png)
 
 ## Meet the team! 🔥
 
