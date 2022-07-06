@@ -1,55 +1,133 @@
 {"intents": [
     {"tag": "greet",
-     "patterns": ["Hai", "Hi", "Halo", "Apa Kabar", "Selamat Pagi", "Selamat Siang", "Selamat Malam", "Salam", "Ping", "P", "siang", "malam", "pagi", "helo", "hola"],
-     "responses": ["Halo!", "Hai", "Halo, ada yang bisa GoBot bantu?", "Halo selamat datang", "Hai Kawan Gobot"]
+     "patterns": ["Hai", "Hi", "Halo", "Apa Kabar", "Selamat Pagi", "Selamat Siang", "Selamat Malam", "Salam", "Ping", "P", "siang", "malam", "pagi", "helo", "hola", "holaaaaaa", "bro"],
+     "responses": ["Halo!", "Hai kawan :)", "Halo, ada yang bisa GoBot bantu?", "Halo selamat datang di Customer Help GoBot :)", "Hai Kawan Gobot"]
     },
     {"tag": "bye",
-     "patterns": ["Dadah", "Selamat Tinggal", "Dah", "Daah", "Semoga harimu menyenangkan", "Ok makasih", "Sampai Jumpa Lagi", "Ok bye"],
+     "patterns": ["Dadah", "Selamat Tinggal", "Dah", "Daah", "Semoga harimu menyenangkan", "Ok makasih", "Sampai Jumpa Lagi", "Ok bye", "Gudbye", "GoodBYE", "Sayonara"],
      "responses": ["Sampai jumpa lagi kawan GoBot", "Kalau butuh bantuan, hubungi GoBot lagi ya", "Semoga harimu menyenangkan!", "Sampai jumpa, terima kasih telah bertanya!"]
     },
     {"tag": "thanks",
-        "patterns": ["Thanks", "Thank you", "Terimakasih", "Makasih", "Nuhun"],
-        "responses": ["Sama-sama, senang GoBot bisa membantu anda!"]
+        "patterns": ["Thanks", "Thank you", "Terimakasih", "Makasih", "Nuhun", "Arigatou", "Makasihhh", "Makasih Banyak", "oke siap terima kasih", "oke siap", "ty"],
+        "responses": ["Sama-sama, senang GoBot bisa membantu anda!", "Terima kasih kembali :)"]
     },   
     {"tag": "nama",
-     "patterns": ["nama kamu siapa?", "lu siapa?", "siapa sih lo?", "lu sape ?", "nama lo sape dah ?", "nama?"],
+     "patterns": ["nama kamu siapa?", "lu siapa?", "siapa sih lo?", "lu sape ?", "nama lo sape dah ?", "nama?", "anda siapa?"],
      "responses": ["Hi! Namaku GoBot, salam kenal kawan!", "Halo, aku GoBot!", "Kenalin, aku GoBot!"]
     },
     {"tag": "nanya_gobot",
-     "patterns": ["kamu siapa?", "siapa sih kamu?" , "gobot apa?", "apa itu gobot?"],
-     "responses": ["GoBot merupakan online Chatbot, yang dapat membantu kawan untuk mecarikan rekomendasi tempat kawan liburan.", "Tugasku jadi asisten di komunitas NgodingPython"]
+     "patterns": ["kamu siapa?", "siapa sih kamu?" , "gobot apa?", "apa itu gobot?", "Gobot siapasih?", "Kamu apa?", "kamu robot?", "kamu bot?"],
+     "responses": ["GoBot merupakan online Chatbot, yang dapat membantu kawan untuk mecarikan rekomendasi tempat kawan liburan.",
+                    "Salam kenal aku GoBot", "Panggil aku GoBot kawan :)", "Aku GoBot!", "Perkenalkan aku GoBot"]
     },
     {"tag": "nanya_apps",
-    "patterns": ["emang Let's Get Lost apa si?", "apa tuh Let's Get Lost?", "eman ini apasih?", "wah apa tuh ini?", "Let's Get Lost apaan?"],
-    "responses": ["Let's Get Lost ada sebuah aplikasi yang membantu kawan untuk mendapatkan rekomendasi liburan berdasarkan kriteria kamu"]
+    "patterns": ["emang Travelry apa si?", "apa tuh Travelry?", "eman ini apasih?", "wah apa tuh ini?", "Travelry apaan?", "Travelry?", "Apa ini?",
+                "apps?", "appsnya?", "apps apa ini?", "fungsi apps ini apa?"
+    ],
+    "responses": ["Travelry ada sebuah aplikasi yang membantu kawan untuk mendapatkan rekomendasi liburan berdasarkan kriteria kamu",
+                 "Travelry dapat memberikan rekomendasi seputar wisata liburan untuk kawan.",
+                 "Travelry dapat memberikan rekomendasi seputar hotel, restoran, dan wisata liburan untuk kawan."]
     },
     {"tag": "weblink",
-    "patterns": ["Bisakah Anda memberikan link Let's Get Lost?", "Minta link nya dong", "Website nya apa", "Tolong berikan saya link!", "Bagi link", "link apps nya apa?", "link apps?"],
-    "responses": ["Baik, GoBot akan memberikan link nya, silahkan klik dari tautan ini:____________"]
+    "patterns": ["Bisakah Anda memberikan link Travelry?", "Minta link nya dong", "Website nya apa", "Tolong berikan saya link!", "Bagi link", "link apps nya apa?", "link apps?"],
+    "responses": ["Baik, GoBot akan memberikan link nya, silahkan klik dari tautan ini:https://bit.ly/3R9deJL","Travelry dapat diakses melalui link heroku : https://bit.ly/3R9deJL"]
     },
     {"tag": "creator",
-        "patterns": ["siapa pembuat Let's Get Lost?", "siapa pembuat apps ini?", "siapa yang buat?", "siapa pencipta Let's Get Lost", "apps nya siapa yang bikin", "Let's Get Lost siapa yang bikin?"],
-        "responses": ["Let's Get Lost diciptakan oleh Fadhli, Nirwan & Sanzabi"]
+        "patterns": ["siapa pembuat Travelry?", "siapa pembuat apps ini?", "siapa yang buat?", "siapa pencipta Travelry", "apps nya siapa yang bikin", "Travelry siapa yang bikin?",
+                    "dibuat oleh siapa?", "pembuatnya?", "siapa pembuatnya?", "pembuat", "creator?"
+        ],
+        "responses": ["Travelry diciptakan oleh Fadhli, Nirwan & Sanzabi"]
     },
     {"tag": "canda",
-        "patterns": ["main yuk", "jalan yuk", "kuy yuk", "kuy bot", "gaskan yuk"],
+        "patterns": ["main yuk", "jalan yuk", "kuy yuk", "kuy bot", "gaskan yuk", "kuy"],
         "responses": ["Yuk, biar GoBot temenin kawan!"]
     },
     {"tag": "canda_2",
+        "patterns": ["jajan yuk", "mau jajan ga?", "ada uang ga?", "bagi uang bot?"],
+        "responses": ["GoBot gapunya uang :("]
+    },
+    {"tag": "canda_3",
         "patterns": ["gobot sukanya pergi kemana?", "gobot suka liburan kemana?", "bot kemarin liburan kemana?", "gobot pernah liburan?"],
         "responses": ["GoBot gabisa pergi liburan, karena aku hanyalah Artificial Inteligence :("]
     },
     {"tag": "pilihan",
-        "patterns": ["Ada pilihan liburan kemana saja bot?", "bisa liburan kemana aja nih?", "rekomendasi liburan bali?"],
-        "responses": ["Saat ini GoBot hanya dapat memberikan rekomendasi liburan di Labuan Bajo saja."]
+        "patterns": ["Ada pilihan liburan kemana saja bot?", "bisa liburan kemana aja nih?", "rekomendasi liburan bali?", "ada apa aja?", "liburan kemana aja?", "bali", "luar negeri", "jakarta",
+                    "pilihan", "pilihan liburan", "singapore", "lombok"
+        ],
+        "responses": ["Saat ini GoBot hanya dapat memberikan rekomendasi liburan di Labuan Bajo saja.", "Mohon maaf kami hanya tersedia untuk liburan di Labuan Bajo saja."]
     },
     {"tag": "pilihan_2",
-        "patterns": ["ada hotel apa aja bot?", "carikan hotel terbaik", "ada yang murah ga?", "apa hotelnya bagus?"],
+        "patterns": ["ada hotel apa aja bot?", "carikan hotel terbaik", "ada yang murah ga?", "apa hotelnya bagus?", "hotel terbaik di Labuan Bajo?", "hotel", "hotel bagus"],
         "responses": ["GoBot akan memberikan rekomendasi hotel terbaik untuk kawan.", "Pilihan hotel terbaik selalu GoBot berikan"]
     },
-    {"tag": "pilihan_3",
-        "patterns": ["uang ku pas-pasan", "uangku sedikit", "apakah ada liburan yang cocok untuk saya?", "liburan yang cocok untuk saya?"],
-        "responses": ["Tenang, GoBot akan memberikan rekomendasi hotel, restoran dan hal menarik lainnya sesuai budget kawan."]
+    {"tag": "random_talk",
+        "patterns": ["apa ada komodo di labuan bajo?", "cari komodo dimana?", "komodo?", "dimana komodo?", "apa itu komodo?"],
+        "responses": ["Komodo adalah hewan purba yang hanya berada di Pulau Komodo di labuan bajo, Kawan!"]
+    },
+    {"tag": "tanya wisata alam",
+        "patterns": ["ada wisata apa saja di labuan bajo?", "ada wisata apa?", "wisata apa aja yang ada di labuan bajo?", "daerah liburan?", "labuan bajo", "binggung wisata apa di labuan bajo", "mau liburan ke labuan bajo"],
+        "responses": ["Di Labuan Bajo terdapat berbagai macam daerah liburan, dari pulau komodo, goa, pantai hingga wisata fauna bawah laut."]
+    },
+    {"tag": "random_talk3",
+        "patterns": ["aku takut komodo", "gimana kalo digigit komodo", "aku gamau ke komodo", "adakah tempat lain selain ke komodo"],
+        "responses": ["Tenang kawan, untuk hewan komodo terdapat pengawas yang selalu menjaga, jadi jangan takut kamu digigit."]
+    },
+    {"tag": "pembayaran",
+        "patterns": ["cara bayarnya gimana bot?", "gimana bayarnya?", "transfer?", "pembayaran?", "metode pembayaran apa saja?", "bisa bayar pake apa?", "ada cara apa saja bayarnya?", "bayarnya gimana?",
+                    "metode", "pembayaran", "cara bayar", "gimana bayar"
+        ],
+        "responses": ["Halo kawan, untuk pembayaran dapat menggunakan metode pembayaran yang tertera di website Travelry."]
+    },
+    {"tag": "pembayaran_error",
+        "patterns": ["pembayaran error", "pembayaran nya error nih", "tolong pembayaran error", "payment error", "error nih pembayarannya", "error nih"],
+        "responses": ["Jika terjadi kesalahan pembayaran, mohon hubungi kami di +6285-898-898-898 atau email: customerservice@travelry.com"]
+    },
+    {"tag": "refund",
+        "patterns": ["aku mau refund", "bisakah refund pembayaran?", "cara refund gimana?", "tolong aku mau refund", "giamana cara refund?", "refund dong", "bantu saya refund", "mau refund dong bot"],
+        "responses": ["Untuk melakukan refund, silahkan melakukan pengisian form di website Travelry. Dan jika masih ada kendala mohon hubungi kami di +6285-898-898-898 atau di email: customerservice@travelry.com "]
+    },
+    {"tag": "reschedule_info",
+        "patterns": ["reschedule bisakah?", "gimana reschedule?", "informasi reschedule", "reschedule dong","bisa resched", "reschedule?"],
+        "responses": ["Halo kawan, untuk reschedule hanya dapat dilakukan H-1 dari tanggal yang dipesan. Mohon maaf atas ketidaknyamanan ini."]
+    },
+    {"tag": "reschedule_bantuan",
+        "patterns": ["tolong reschedule", "bantu saya reschedule", "gobot bantu aku reschedule", "apakah bisa reschedule jadwal hotel?", "reschedule liburan dong", "bantu atur jadwal",
+                    "cara ubah jadwal gimana?", "gimana mengubah jadwal?" , "bisakah membantu mengubah jadwal saya?", "bantuin reschedule dong"],
+        "responses": ["Halo kawan, GoBot akan membantu untuk melakukan reschedule jadwal liburan anda."]
+    },
+    {"tag": "dokumen",
+        "patterns": ["untuk dokumen apa saja?", "butuh dokumen apa saja?", "harus persiapkan dokumen apa?", "butuh bawa dokumen identitas?", "dokumen apa yang harus dibawa?", "dokumen", "ktp", "passport"],
+        "responses": ["Untuk dokumen yang dibutuhkan dalam pemesanan, bisa menggunakan KTP untuk Warga Negara Indonesia & Passport untuk Warga Negara Asing", "Silahkan gunakan KTP untuk Warga Negara Indonesia & Passport untuk Warga Negara Asing", "Kawan dapat menggunakan KTP atau Passport"]
+    },
+    {"tag": "mengubah_pilihan",
+        "patterns": ["aku mau mengubah pilihan liburan", "bagaimana cara mengubah pilihan hotel?", "mau ubah hotel dong", "ganti hotel", "ganti resto", "ganti restoran", "ganti hotel yang bagus", "tolong bantu ganti hotel/resto"],
+        "responses": ["Untuk pengubahan pilihan hotel,restoran dapat menghubungi kami di +6285-898-898-898 atau email: customerservice@travelry.com ", "Silahkan hubungi kami di +6285-898-898-898 atau email: customerservice@travelry.com"]
+    },
+    {"tag": "salah_input",
+        "patterns": ["cara ubah nama?", "bagaimana mengubah nama?", "ubah nama?", "bantu ubah nama dong"],
+        "responses": ["Halo kawan, untuk mengubah nama bisa melalui pengaturan profil kamu."]
+    },
+    {"tag": "sop_covid",
+        "patterns": ["bagaimana sop covid", "apakah harus vaksin", "harus pcr?", "bagaimana jika belom vaksin?", "bagaimana jika belom pcr?", "apakah harus pcr?", "saya belom vaksin", "gimana sop covid nya?", "apakah harus memakai masker?", "apakah harus menggunakan masker?", "sop"],
+        "responses": ["Dikarenakan masih dalam kondisi Pandemi, diharap kawan bisa tetap menerapkan 5M., dan juga dapat menunjukkan sertifikasi vaksin atau surat test PCR dengan keterangan negatif."]
+    },
+    {"tag": "vaksin_info",
+        "patterns": ["adakah vaksin disana?", "dimana tempat vaksin?", "gaada vaksin ya?", "tau tempat vaksin?", "apakah ada gratis vaksin dari travelry", "apakah travelry menyediakan vaksin gratis?"],
+        "responses": ["Untuk saat ini kami tidak memiliki informasi perihal vaksin kawan."]
+    },
+    {"tag": "keamanan_data",
+        "patterns": ["jangan dijual data kami!", "data kami diapakan?", "data kami jangan dijual", "hati-hati dengan data kami", "data", "keamanan"],
+        "responses": ["Kami selalu menjaga keamanan informasi data kawan.", "Tenang saja kawan, untuk informasi data terjaga aman oleh kami.", "Kami menjaga keamanan data kawan."]
+    },
+    {"tag": "complain",
+        "patterns": ["gimana caranya memberikan kritik & saran?", "kritik & saran?", "mau kritik", "harus banyak ditingkatkan", "gimana cara melapor?", "saya mau mengajukan komplain"],
+        "responses": ["Halo, untuk saran & kritik bisa langsung menghubungi customer service kami ya di +6285-898-898-898 atau email: customerservice@travelry.com , terima kasih banyak kawan."]
+    },
+    {"tag": "complain_marah",
+        "patterns": ["saya gasuka dengan pelayanan apps ini", "apps jelek", "jelek nih appsnya", "travelry jelek", "travelry bad",
+                    "mau komplain", "komplain", "apps gajelas", "rekomendasinya jelek", "gajelas rekomendasinya"
+        ],
+        "responses": ["GoBot minta maaf bila pelayanan kami terasa kurang untuk kawan, kami akan seger memperbaikinya :("]
     }
 ]
 }
