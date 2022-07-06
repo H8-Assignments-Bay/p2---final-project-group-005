@@ -36,9 +36,9 @@ Some screenshot of Travelry Application:
 **Bot Conversation Examples**
 
 <p float="left">
-  <img src="./img/bot_1.png.png" width="100" />
-  <img src="./img/bot_2.png.png" width="100" /> 
-  <img src="./img/bot_3.png.png" width="100" />
+  <img src="./img/bot_1.png" width="100" />
+  <img src="./img/bot_2.png" width="100" /> 
+  <img src="./img/bot_3.png" width="100" />
 </p>
 
 ## Meet the team! 🔥
