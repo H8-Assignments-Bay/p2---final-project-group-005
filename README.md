@@ -33,6 +33,15 @@ Some screenshot of Travelry Application:
 
 ![image](./img/Travelry-bot.png)
 
+**Bot Conversation Examples**
+
+![image](./img/bot_1.png.png)
+&nbsp;&nbsp;
+![image](./img/bot_2.png.png)
+&nbsp;&nbsp;
+![image](./img/bot_3.png.png)
+&nbsp;&nbsp;
+
 ## Meet the team! 🔥
 
 **Hacktiv8 - Group 5 - Batch 11**
