@@ -47,18 +47,18 @@ Some screenshot of Travelry Application:
 
 - Nirwan Arrachman
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/nirwan-arrachman/)
+[![website](./img/linkedin-light.png)](https://www.linkedin.com/in/nirwan-arrachman/)
 &nbsp;&nbsp;
-[![website](./img/github-light.svg)](https://github.com/nirwanar)
+[![website](./img/github-light.png)](https://github.com/nirwanar)
 
 - R. Fadli Syauqi
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/fadhli-syauqi-637561159/)
+[![website](./img/linkedin-light.png)](https://www.linkedin.com/in/fadhli-syauqi-637561159/)
 &nbsp;&nbsp;
-[![website](./img/github-light.svg)](https://github.com/fadlisyauqi8)
+[![website](./img/github-light.png)](https://github.com/fadlisyauqi8)
 
 - Muhammad Sanzabi Libianto
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/muhammadsanzabi)
+[![website](./img/linkedin-light.png)](https://www.linkedin.com/in/muhammadsanzabi)
 &nbsp;&nbsp;
-[![website](./img/github-light.svg)](https://github.com/sanzabi)
+[![website](./img/github-light.png)](https://github.com/sanzabi)
